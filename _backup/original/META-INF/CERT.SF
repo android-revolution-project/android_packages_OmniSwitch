@@ -1,0 +1,193 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+SHA1-Digest-Manifest: qSlzL/LFlAY5YUFrKXf7doFKXx8=
+
+Name: res/drawable-xhdpi/ic_launcher.png
+SHA1-Digest-Manifest: OQu2p1/pjaGuXldWSVUo40rCIJA=
+
+Name: res/drawable-xxhdpi/ic_expand_up.png
+SHA1-Digest-Manifest: T9dUQ5nn0V5Fa06CBqvHyqCg528=
+
+Name: res/drawable/overlay_bg_right.xml
+SHA1-Digest-Manifest: TpAJ5yTCrz3PPNBAfUW79LLEPRI=
+
+Name: res/layout/action_bar_switch.xml
+SHA1-Digest-Manifest: csySe2ayjje07F4BjBoThEwQcr4=
+
+Name: res/drawable-xhdpi/home.png
+SHA1-Digest-Manifest: N6m7rXvHcZArwgpCLXhKswNmSl4=
+
+Name: res/menu/package_popup_menu.xml
+SHA1-Digest-Manifest: jVK18kaM8tof595KsmhNZRIdR4g=
+
+Name: res/drawable-xhdpi/back.png
+SHA1-Digest-Manifest: wkNGtw62pQct7pi4EskMqUkixsM=
+
+Name: res/layout/favorite_app_item.xml
+SHA1-Digest-Manifest: svLmZ5OZybQ7U/k9P55JBivm9sU=
+
+Name: res/layout/checkbox_list.xml
+SHA1-Digest-Manifest: PPch4teeFSirPi7dP15GqqA70e0=
+
+Name: res/menu/favorite_popup_menu.xml
+SHA1-Digest-Manifest: yXLfVRXx9e9Wx+44XlFso1v8d6w=
+
+Name: res/drawable-xhdpi/btn_cling_pressed.9.png
+SHA1-Digest-Manifest: gwXlvX/meIguhzjpebNm+Z7YW0E=
+
+Name: res/drawable-xhdpi/drag_handle_start.png
+SHA1-Digest-Manifest: xC6v2umzQqwTFGjZhdEVvRBRoy4=
+
+Name: res/drawable-xhdpi/drag_handle_overlay.png
+SHA1-Digest-Manifest: Q5/NffZbceQF25DnPzEaF3rPAQ4=
+
+Name: res/layout/preference_color.xml
+SHA1-Digest-Manifest: jpaIGL1+FodilLi2cUCZ4HHt+GU=
+
+Name: res/drawable-xxhdpi/ic_expand_down.png
+SHA1-Digest-Manifest: nJReAGLLKzmHzb1Un6Wmke9xVZM=
+
+Name: res/drawable/overlay_bg.xml
+SHA1-Digest-Manifest: 3agUaVieFI44neU7Oyddbm3ANaU=
+
+Name: res/layout/preference_number_picker.xml
+SHA1-Digest-Manifest: wfhk30ZV81nkGd3e/rlx9v2TfQo=
+
+Name: res/layout-land/dialog_color_picker.xml
+SHA1-Digest-Manifest: XKP+b1urJ2bmmbNVJaLJI5KLs/8=
+
+Name: res/drawable-xxhdpi/btn_cling_pressed.png
+SHA1-Digest-Manifest: WGV2yIQuz9oi4dADcEfKzZARiCA=
+
+Name: res/layout/installed_app_item.xml
+SHA1-Digest-Manifest: EXogpamgSuSSHKJT2gRgT2bUWM8=
+
+Name: res/drawable-xxhdpi/ic_launcher.png
+SHA1-Digest-Manifest: /t72KE1hscGgtB5d5qopl4fl540=
+
+Name: res/drawable-xhdpi/ic_default.png
+SHA1-Digest-Manifest: GCCo+CHRq5tgsRLsDNzkzCetWVE=
+
+Name: res/layout/recents_list_horizontal.xml
+SHA1-Digest-Manifest: Xmn4RQrPfXsoM1SAAvR5b2CIQQg=
+
+Name: res/layout/slider_preference.xml
+SHA1-Digest-Manifest: xMkFb1cytVVvr9QSKBywNE70x8M=
+
+Name: res/menu/recent_popup_menu.xml
+SHA1-Digest-Manifest: y855fyLB8oTfz9VZzUSlyqyHOWE=
+
+Name: res/layout/package_item.xml
+SHA1-Digest-Manifest: B4KTmrX+Q0dLzsa+MxCKq4X84G4=
+
+Name: res/drawable-xhdpi/kill_other.png
+SHA1-Digest-Manifest: VDTuENhgvK2CYoojc7FAfZaJQe0=
+
+Name: res/drawable-xhdpi/drag_handle.png
+SHA1-Digest-Manifest: V0u1Zwb+ULAO4G5rxBwYx2bpRg0=
+
+Name: res/drawable-xhdpi/hand.png
+SHA1-Digest-Manifest: Ss4GSVsQXFhL6L7JepuJ+dMIz08=
+
+Name: res/drawable-xhdpi/ic_allapps.png
+SHA1-Digest-Manifest: s6BjVW1Ho5e/mHTmqhIqaKmppqs=
+
+Name: res/layout/favorite_dialog.xml
+SHA1-Digest-Manifest: Vrcebb487bEEXgaQGmWvAtIvrkU=
+
+Name: res/drawable-xxhdpi/btn_cling_normal.png
+SHA1-Digest-Manifest: G2qyDqgPeic90HMf8RwtfhCFidI=
+
+Name: res/drawable-xhdpi/lastapp.png
+SHA1-Digest-Manifest: G6OFXJxyCUuchRJazpTI8Yy0vT0=
+
+Name: resources.arsc
+SHA1-Digest-Manifest: 2eo9akHXUqYXY7Iv80iqPCbmURI=
+
+Name: res/layout/settings_gesture_view.xml
+SHA1-Digest-Manifest: S/waN6oKiXZ670EJiXYt7QBbpAk=
+
+Name: res/layout/recents_rambar.xml
+SHA1-Digest-Manifest: QUN5W18Sc+a7s7B5ocbkfBmuZSw=
+
+Name: AndroidManifest.xml
+SHA1-Digest-Manifest: AvQ9HIivn5MzVlBNh5g6dHmFnig=
+
+Name: res/drawable-xhdpi/cling.png
+SHA1-Digest-Manifest: 17AbQOhLAXiRwt1EpWcFVUkcshE=
+
+Name: res/drawable-xxhdpi/hand.png
+SHA1-Digest-Manifest: N1VlRe3tmphq2C5azCs/LWLCIYY=
+
+Name: res/layout/handy.xml
+SHA1-Digest-Manifest: iMbQW8yiVIxhl79ml1p4NBwaY+Q=
+
+Name: res/layout/installed_apps_dialog.xml
+SHA1-Digest-Manifest: iVw8eDgmyG4Ap3brIM0nXYbLv0w=
+
+Name: res/layout/iconpack_chooser.xml
+SHA1-Digest-Manifest: 7Bk90TucOymFuzVzmN9Yfy0T39E=
+
+Name: res/menu/settings_menu.xml
+SHA1-Digest-Manifest: irXgl/Lumyi9jrHmU7GyUglt+Xg=
+
+Name: res/drawable-xhdpi/kill_all.png
+SHA1-Digest-Manifest: 4gmA8FxabZZGkrUEr089JlpAr78=
+
+Name: res/drawable-xhdpi/btn_cling_normal.9.png
+SHA1-Digest-Manifest: p3f+PyAJHcFDZc8LaRGIwAY2tgY=
+
+Name: res/drawable/overlay_bg_flat.xml
+SHA1-Digest-Manifest: Fq1u9Bxs+hCAWo8OR6FQP5x6jzo=
+
+Name: res/drawable-xhdpi/drag_handle_end.png
+SHA1-Digest-Manifest: DWClkHP3q5f5p+L2LLwssGb33HQ=
+
+Name: res/drawable-xhdpi/ic_expand_down.png
+SHA1-Digest-Manifest: xLl6Id+WSTIFY0uRJHleNmxfDTo=
+
+Name: res/drawable-xhdpi/ic_expand_up.png
+SHA1-Digest-Manifest: ts1h+u/32MrsmLZTmJWS6bv0y7U=
+
+Name: res/drawable-xxhdpi/ic_default.png
+SHA1-Digest-Manifest: gFkYMaFV80hmMCAjkWMjSqEUkB0=
+
+Name: res/drawable-xxhdpi/cling.png
+SHA1-Digest-Manifest: O4W7Dwp+PC51vvvi3Lo6nQdGgFI=
+
+Name: classes.dex
+SHA1-Digest-Manifest: 7C2Rpyd6LXYG6dVaV7II4VQ9H1Q=
+
+Name: res/layout/showcase_button.xml
+SHA1-Digest-Manifest: 8s7PdB/rmT8R2m3noX2+5Wk/Rcs=
+
+Name: res/layout/dialog_color_picker.xml
+SHA1-Digest-Manifest: NVmvzenepOb+igSfG4BflAnKkB8=
+
+Name: res/drawable/overlay_bg_button_flat.xml
+SHA1-Digest-Manifest: cToQ46HX8XHAt6e+spg47TF7LR8=
+
+Name: res/drawable/overlay_bg_left.xml
+SHA1-Digest-Manifest: IdA7SbYb1v2zVyBsxKd1pJa3BbA=
+
+Name: res/drawable/cling_button_bg.xml
+SHA1-Digest-Manifest: 6O1pxorbzUZ4qR0txAO6GH0jcRo=
+
+Name: res/xml/recents_settings.xml
+SHA1-Digest-Manifest: OwUKB6jbw6l/jQ8+zybNx2L9D1M=
+
+Name: res/layout/checkbox_item.xml
+SHA1-Digest-Manifest: L8060VoTzESvWcdbFk3MyfnH/GE=
+
+Name: res/drawable-xhdpi/settings.png
+SHA1-Digest-Manifest: H/auEnNbcpPR91sp5U0XFKPIX04=
+
+Name: res/layout/gesture_view.xml
+SHA1-Digest-Manifest: pQDLjhhCPpvNJ1t0YCnOMPbXuQE=
+
+Name: res/drawable-xhdpi/immersive_mode.png
+SHA1-Digest-Manifest: HXN7Qyh53VcewQZc21gbyxXCXtE=
+
+Name: res/drawable-xhdpi/kill_current.png
+SHA1-Digest-Manifest: RdAgKTekr6QzJDUTfrCYHV5L9zk=
+

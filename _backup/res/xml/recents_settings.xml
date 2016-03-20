@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/recents_settings_title"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBoxPreference android:title="@string/start_on_boot_title" android:key="start_on_boot" android:summary="@string/start_on_boot_summary" />
+    <PreferenceCategory android:title="@string/category_overlay_title" android:key="category_overlay">
+        <CheckBoxPreference android:title="@string/animate_title" android:key="animate" android:summary="@string/animate_title_summary" android:defaultValue="true" />
+        <ListPreference android:entries="@array/icon_size_entries" android:title="@string/icon_size_title" android:key="icon_size" android:summary="@string/icon_size_normal" android:entryValues="@array/icon_size_values" />
+        <Preference android:title="@string/icon_pack_title" android:key="iconpack" android:summary="@string/icon_pack_summary" />
+        <org.omnirom.omniswitch.ui.SeekBarPreference android:max="100" android:title="@string/opacity_title" android:key="opacity" android:summary="@string/opacity_summary" android:defaultValue="60" />
+        <CheckBoxPreference android:title="@string/dim_behind_title" android:key="dim_behind" android:summary="@string/dim_behind_summary" android:defaultValue="false" />
+        <CheckBoxPreference android:title="@string/flat_style_title" android:key="flat_style" android:summary="@string/flat_style_summary" android:defaultValue="false" />
+        <ListPreference android:entries="@array/gravity_entries" android:title="@string/gravity_title" android:key="gravity" android:summary="@string/gravity_center" android:entryValues="@array/gravity_values" />
+        <CheckBoxPreference android:title="@string/show_rambar_title" android:key="show_rambar" android:summary="@string/show_rambar_summary" android:defaultValue="false" />
+        <CheckBoxPreference android:title="@string/show_app_labels" android:key="show_labels" android:summary="@string/show_app_labels_summary" android:defaultValue="true" />
+        <Preference android:title="@string/buttons_title" android:key="button_config" android:summary="@string/buttons_summary" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/category_drag_handle_title" android:key="category_drag_handle">
+        <SwitchPreference android:title="@string/drag_handle_enable_title" android:key="drag_handle_enable" android:summary="@string/drag_handle_enable_summary" android:defaultValue="true" />
+        <Preference android:title="@string/adjust_handle_title" android:key="adjust_handle" android:dependency="drag_handle_enable" />
+        <org.omnirom.omniswitch.ui.DragHandleColorPreference android:title="@string/drag_handle_color_title" android:key="drag_handle_color" android:dependency="drag_handle_enable" />
+        <org.omnirom.omniswitch.ui.SeekBarPreference android:max="100" android:title="@string/drag_handle_opacity_title" android:key="drag_handle_opacity" android:dependency="drag_handle_enable" android:defaultValue="100" />
+        <CheckBoxPreference android:title="@string/auto_hide_handle" android:key="auto_hide_handle" android:summary="@string/auto_hide_handle_summary" android:dependency="drag_handle_enable" android:defaultValue="false" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/category_speed_switcher_title" android:key="category_speed_switcher">
+        <SwitchPreference android:title="@string/speed_switcher_enable_title" android:key="speed_switcher" android:summary="@string/speed_switcher_enable_summary" android:dependency="drag_handle_enable" android:defaultValue="false" />
+        <CheckBoxPreference android:title="@string/speed_switch_color" android:key="speed_switch_color" android:summary="@string/speed_switch_color_summary" android:dependency="speed_switcher" android:defaultValue="true" />
+        <CheckBoxPreference android:title="@string/speed_switch_limit" android:key="speed_switch_limit" android:summary="@string/speed_switch_limit_summary" android:dependency="speed_switcher" android:defaultValue="true" />
+        <org.omnirom.omniswitch.ui.NumberPickerPreference android:title="@string/speed_switch_item" android:key="speed_switch_items" android:summary="@string/speed_switch_items_summary" android:dependency="speed_switcher" android:defaultValue="10" />
+        <Preference android:title="@string/speed_switch_button_title" android:key="speed_switch_button_config" android:summary="@string/speed_switch_button_summary" android:dependency="speed_switcher" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/category_favorite_title" android:key="category_favorite">
+        <org.omnirom.omniswitch.ui.FavoritePreference android:title="@string/favorite_apps_config_title" android:key="favorite_apps_config" android:summary="@string/favorite_apps_config_summary" />
+    </PreferenceCategory>
+</PreferenceScreen>

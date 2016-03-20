@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent" android:baselineAligned="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_gravity="top" android:orientation="vertical" android:id="@id/drag_handle_view_left" android:background="@color/settings_gesture_view_bg" android:layout_width="60.0dip" android:layout_height="fill_parent" />
+    <RelativeLayout android:layout_gravity="center" android:orientation="vertical" android:background="@color/settings_gesture_view_bg" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0">
+        <RelativeLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_centerHorizontal="true" android:layout_centerVertical="true">
+            <Button android:textColor="@color/settings_gesture_button_fg" android:id="@id/location_button" android:background="@color/settings_gesture_button_bg" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="10.0dip" android:text="@string/location_left" />
+            <Button android:textColor="@color/settings_gesture_button_fg" android:id="@id/reset_button" android:background="@color/settings_gesture_button_bg" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="10.0dip" android:text="@string/reset" android:layout_below="@id/location_button" />
+        </RelativeLayout>
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true">
+            <Button android:textColor="@color/settings_gesture_button_fg" android:id="@id/cancel_button" android:background="@color/settings_gesture_button_bg" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="10.0dip" android:text="@android:string/cancel" android:layout_weight="1.0" />
+            <Button android:textColor="@color/settings_gesture_button_fg" android:id="@id/ok_button" android:background="@color/settings_gesture_button_bg" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="10.0dip" android:text="@android:string/ok" android:layout_weight="1.0" />
+        </LinearLayout>
+    </RelativeLayout>
+    <LinearLayout android:layout_gravity="top" android:orientation="vertical" android:id="@id/drag_handle_view_right" android:background="@color/settings_gesture_view_bg" android:layout_width="60.0dip" android:layout_height="fill_parent" />
+</LinearLayout>

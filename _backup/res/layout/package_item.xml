@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<org.omnirom.omniswitch.ui.PackageTextView android:textAppearance="?android:textAppearanceSmall" android:textStyle="bold" android:textColor="@android:color/white" android:ellipsize="end" android:gravity="center_horizontal" android:id="@id/favorite_item" android:background="@android:color/transparent" android:focusable="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="centerInside" android:lines="2" android:shadowColor="@color/text_shadow" android:shadowDx="0.0" android:shadowDy="0.0" android:shadowRadius="5.0" android:drawableTop="@drawable/ic_launcher"
+  xmlns:android="http://schemas.android.com/apk/res/android" />
